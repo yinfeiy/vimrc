@@ -1,0 +1,8 @@
+import Queue
+
+abcc=Queue.Queue(3)
+
+abcc.sets(10)
+abcc.sets(3)
+
+abcc.get()
