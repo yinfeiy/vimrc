@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 BASEDIR=$(dirname $0)
 
 if test `which apt-get` ; then
